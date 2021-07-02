@@ -13,5 +13,5 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka
 server:
-  port: 8000
+  port: 9000
 © 2021 GitHub, Inc.
